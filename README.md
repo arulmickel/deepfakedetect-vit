@@ -33,13 +33,8 @@ deepfakedetect-vit/
 ├── Final Project Report.pdf
 ├── notebooks/
 │   └── DeepfakeDetection_ViT.ipynb
-├── scripts/
-│   └── train_model.py (optional)
-├── models/
-│   └── best_model.pth (optional)
 ├── images/
 │   └── sample_predictions.png
-└── data/ (placeholder or add .gitignore)
 ```
 
 ## How to Run
@@ -68,5 +63,5 @@ The Vision Transformer model demonstrated superior performance, especially in di
 Please refer to the `Final Project Report.pdf` for complete details on methodology, results, and visual examples.
 
 ---
-**Subject:** Neural Networks  
+**Subject:** CSC 578 NEURAL NETWORKS AND DEEP LEARNING | 2024-2025 Spring
 **University:** DePaul University, Chicago
